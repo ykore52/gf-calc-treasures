@@ -3,6 +3,7 @@ A bookmarklet for getting treasure list of the GRANBLUE FANTASY.
 # 概要
 * 所持しているトレジャーの名称と個数をテキスト形式で出力します。
 * 十天衆解放素材の必要数と不足分を一覧で表示します。
+* ブックマークレット登録してご使用ください。
 
 ## 使い方
 1. 以下のGistにあるブックマークレット(javascript:~から始まる文字列)をコピーします。
